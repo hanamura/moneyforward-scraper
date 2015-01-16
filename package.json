@@ -1,0 +1,14 @@
+{
+  "name": "moneyforward-scraper",
+  "version": "0.0.1",
+  "description": "Scraping engine for Moneyforward",
+  "main": "./index",
+  "author": "Taro Hanamura <m@hanamurataro.com> (http://hanamurataro.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "0.18.0",
+    "coffee-script": "1.8.0",
+    "moment": "2.9.0",
+    "nightmare": "1.6.5"
+  }
+}
